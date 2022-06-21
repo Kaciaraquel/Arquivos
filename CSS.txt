@@ -1,0 +1,9 @@
+html, body {
+	text-align:center;
+	font-family:Open sans,sans-serif;
+	background-color:#e5edff;
+	color:#050000;]
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
